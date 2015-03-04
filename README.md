@@ -6,13 +6,13 @@ http://ece.ut.ac.ir/dbrg/bijankhan/ (The corpus distinct words)
 Sample:
 
 Please enter a word to see the correction: (enter 0 to end): خاانه
-Suggestion --> خانه
+Suggestion => خانه
 =======
 Please enter a word to see the correction: (enter 0 to end): گلدام
-Suggestion --> گلدان
+Suggestion => گلدان
 =======
 Please enter a word to see the correction: (enter 0 to end): سلام
-Suggestion --> سلام
+Suggestion => سلام
 =======
 Please enter a word to see the correction: (enter 0 to end): 0
 >>> 

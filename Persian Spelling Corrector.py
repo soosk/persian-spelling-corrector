@@ -52,7 +52,7 @@ while True:
     word = str(input('Please enter a word to see the correction: (enter 0 to end): '))
     if word == '0':
         break
-    print('Suggestion --> {}'.format(correct(word)))
+    print('Suggestion => {}'.format(correct(word)))
     print('=======')
 
     
